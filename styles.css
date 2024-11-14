@@ -1,0 +1,21 @@
+body{    
+    background-color: #fff;
+     margin: 0;
+}
+.box1{
+    width:200px;
+    height:130px;
+    background-color: #fff;
+     background-image: url("https://www.idc-latinamerica.com/sites/default/files/2021-07/IPN%20Logo.png");
+    margin:100px;
+    border-radius: 7px;
+    background-size: 100%;
+    font-size: 40;
+    color:#fa0
+}
+h1{
+    padding:10px;
+    margin:100px 1000px 100px 100px;
+    background-color:#5a1236;
+    color:#fff
+}
